@@ -6,7 +6,7 @@ ini_set('session.gc_divisor',1);
 ini_set('session.cookie_lifetime',60*60*24); // IMPORTANT
 
 // ini_set('session.save_handler','memcached');					// form memcached must be  memcached, NOT mmemcache!
-// ini_set('session.save_path','mysql.db.krk.prod.bryk.iadm:11211');		// for memcached must be server:port, NOT tcp://server:port
+// ini_set('session.save_path','mysql.db.krk.prod.service.ienv:11211');		// for memcached must be server:port, NOT tcp://server:port
 
 //echo ini_get('session.cookie_lifetime');
 
