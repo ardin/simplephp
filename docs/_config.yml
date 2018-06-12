@@ -1,9 +1,1 @@
-title: Simple PHP
-email: ardin@poczta.fm
-description: >- # this means to ignore newlines until "baseurl:"
-  Very simple PHP code. For short usage only.
-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" 
-github_username:  ardin
 theme: jekyll-theme-architect
